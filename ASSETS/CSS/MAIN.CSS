@@ -275,7 +275,7 @@
     color: rgba(43, 53, 62, 0.7);
 }
 
-button {
+.button {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -397,19 +397,19 @@ button {
 }
 
 
-.padding-bottom{
+.padding-bottom {
     padding-bottom: 18px;
 }
 
-.padding-top1{
+.padding-top1 {
     padding-top: 200px;
 
 }
 
-.padding-bottom1{
+.padding-bottom1 {
     padding-bottom: 12px;
 }
 
-.padding-top2{
+.padding-top2 {
     padding-top: 100px;
 }
