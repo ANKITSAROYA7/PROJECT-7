@@ -255,6 +255,7 @@
     font-size: 13px;
     line-height: 161.7%;
     color: rgba(43, 53, 62, 0.7);
+   
 }
 
 .font-16 {
@@ -273,6 +274,7 @@
     font-size: 13px;
     line-height: 161.7%;
     color: rgba(43, 53, 62, 0.7);
+    cursor: pointer;
 }
 
 button {
@@ -286,6 +288,7 @@ button {
     border-radius: 210px;
     padding: 12px 24px;
     background-color: #4B8DFF;
+    cursor: pointer;
 
 }
 
@@ -297,6 +300,7 @@ button {
     justify-content: center;
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .button-3 {
@@ -307,6 +311,7 @@ button {
     justify-content: center;
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .width-100 {
@@ -402,8 +407,8 @@ button {
 }
 
 .padding-top1{
-    padding-top: 200px;
-
+    padding-top: 160px;
+    padding-bottom: 20px;
 }
 
 .padding-bottom1{
